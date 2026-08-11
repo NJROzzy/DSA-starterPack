@@ -58,6 +58,9 @@ DSA-starterPack/
 
 ## 🛠️ How to Use This Repo
 
+I had to start this every time before I give interview!!!!! so you should defiantly check this out, might help!! 
+
+
 ### Clone the repository
 ```bash
 git clone https://github.com/NJROzzy/DSA-starterPack.git
