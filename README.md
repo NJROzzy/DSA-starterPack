@@ -2,7 +2,6 @@
 
 A structured and beginner-friendly **Data Structures and Algorithms (DSA)** repository implemented in **Python**.  
 This repository is designed as a learning and practice resource to build strong problem-solving skills, logical reasoning, and algorithmic thinking — especially for coding interviews and technical assessments.
-
 ---
 
 ## 🎯 Objective
@@ -32,7 +31,8 @@ The goal of this repository is to:
 - Stacks & Queues  
 - Recursion  
 - Trees & Graphs  
-- Dynamic Programming  
+- Dynamic Programming
+- Agentic work should be added as well. 
 
 ---
 
@@ -59,7 +59,6 @@ DSA-starterPack/
 ## 🛠️ How to Use This Repo
 
 I had to start this every time before I give interview!!!!! so you should defiantly check this out, might help!! 
-
 
 ### Clone the repository
 ```bash
